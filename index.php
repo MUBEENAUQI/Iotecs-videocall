@@ -59,7 +59,7 @@
   
     <div class="copy2" ></div>
    <div class="copy" ><center><h2>Iotecs for medical transporartion<h2/></center></div>
-    <div id="copy3" ><a href="http://localhost:3000/" class="w3-btn w3-whitesmoke w3-xxlarge"><i class="fa fa-home"></i> </a></div>
+    <div id="copy3" ><a href="https://iotecs-for-emergency-transportation.web.app/" class="w3-btn w3-whitesmoke w3-xxlarge"><i class="fa fa-home"></i> </a></div>
   <video id="localVideo" autoplay muted></video>
   <video id="remoteVideo" autoplay></video>
   
